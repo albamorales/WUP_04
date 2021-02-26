@@ -72,3 +72,5 @@ The data shows that LT High School Graduate and Junior College are completely sk
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+According to the data, it showed that there is a difference between average score in WORDSUM testing and Level of schooling DEGREE. It shows that Graduate students performed better than LT High school and High School students. In all other cases there are no differences. 
